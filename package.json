@@ -1,0 +1,19 @@
+{
+  "name": "do-syntax",
+  "version": "0.1.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alucky0707/do-syntax.git"
+  },
+  "keywords": [
+    "monad",
+    "functional"
+  ],
+  "author": "alucky0707",
+  "license": "MIT"
+}
